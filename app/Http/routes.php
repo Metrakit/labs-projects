@@ -13,6 +13,8 @@
 
 $app->get('/', 'HomeController@show');
 
+$app->get('/theme', 'HomeController@theme');
+
 $app->get('/clappr-comment', 'ClapprController@show');
 
 $app->get('/clappr-comment/comments-video/{video_id}', 'ClapprController@commentList');
