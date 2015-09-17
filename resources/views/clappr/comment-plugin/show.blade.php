@@ -14,7 +14,7 @@
     window.onload = function() {
       var player = new Clappr.Player({
         sources: ['http://clappr.io/highline.mp4'],
-        width: 800,
+
         plugins: {
           core: [Comments]
         },
@@ -42,7 +42,7 @@
 
   <style>
     .player {
-      width: 800px;
+      width: 640px;
       margin-left: auto;
       margin-right: auto;
     }
