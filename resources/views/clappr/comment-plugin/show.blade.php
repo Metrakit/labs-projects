@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <script type="text/javascript" charset="utf-8" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
-  <script type="text/javascript" charset="utf-8" src="http://cdn.clappr.io/latest/clappr.min.js"></script>
+  <script type="text/javascript" charset="utf-8" src="http://cdn.clappr.io/0.2.1/clappr.min.js"></script>
   <script type="text/javascript" charset="utf-8" src="https://cdn.jsdelivr.net/clappr.comment/latest/comments.min.js"></script>
 
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
